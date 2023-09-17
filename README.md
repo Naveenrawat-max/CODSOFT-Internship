@@ -1,2 +1,2 @@
-# Codsoft_python_repository-
-I have created this repositry for my 4 week codsoft intership programm
+# -CODSOFT
+I have created this repository for my 4 week Codsoft internship program
